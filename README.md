@@ -1,3 +1,11 @@
+# RVEBS: RISC-V Event-Based Sampling
+
+This repository contains the sources and tests for **RVEBS**, an event-based sampling system compatible with the RISC-V Hardware Performance Monitor specification.
+
+### If you use this, please cite:
+
+>Tiago Rocha, Nuno Neves, Nuno Roma, Pedro Tomás, Leonel Sousa, "RVEBS: Event-Based Sampling on RISC-V", Design, Automation and Test in Europe Conference (DATE'2025), IEEE, Lyon - France
+
 ![OpenPiton Logo](/docs/openpiton_logo_black.png?raw=true)
 
 # OpenPiton Research Platform   [![Build Status](https://jenkins.princeton.edu/buildStatus/icon?job=cloud/piton_git_push_master)](https://jenkins.princeton.edu/job/cloud/job/piton_git_push_master/)

@@ -80,7 +80,7 @@ if [ "$RISCV" ==  "" ]
 then
   export RISCV=$HOME/scratch/riscv_install
 fi
-export VERILATOR_ROOT=$ARIANE_ROOT/tmp/verilator-4.014/
+export VERILATOR_ROOT=$ARIANE_ROOT/tmp/verilator-v5.008/verilator
 
 # setup paths
 export PATH=$RISCV/bin:$VERILATOR_ROOT/bin:$PATH
